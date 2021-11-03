@@ -1,5 +1,5 @@
 # boat-detector-BOW
-Boat detection system based on bag-of-words features and SVM classification.
+Boat detection system based on bag-of-words features and SVM classification, developed as final project for the Computer Vision course 2020/2021 at the University of Padua.
 
 ## Basic usage
 
